@@ -1,3 +1,3 @@
-### First time using Git from Terminal
-## I am Johnpaul
-# I am Basit
+# Loading animation
+
+### loading animation designed with html css only
